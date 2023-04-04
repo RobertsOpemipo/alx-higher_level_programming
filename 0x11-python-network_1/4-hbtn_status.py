@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-"""
-Module using request that fetches https://intranet.hbtn.io/status
-"""
-import requests
-
-
-#!/usr/bin/python3
 """Fetches https://alx-intranet.hbtn.io/status."""
 import requests
 
